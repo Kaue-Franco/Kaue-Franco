@@ -14,7 +14,8 @@
 ![Html5](https://img.shields.io/badge/-Html5-0D1117?style=for-the-badge&logo=html5&logoColor=&labelColor=0D1117)&nbsp;
 ![Css3](https://img.shields.io/badge/-Css3-0D1117?style=for-the-badge&logo=css3&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC&labelColor=0D1117)&nbsp;![Html5](https://img.shields.io/badge/-Html5-0D1117?style=for-the-badge&logo=html5&logoColor=&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
