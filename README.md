@@ -1,11 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=365278&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Kauê+Franco;I'm+15+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ##
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kaue-Franco&show_icons=true&count_private=true&hide_border=true&title_color=365278&icon_color=365278&text_color=cdbfff&bg_color=0d1117" alt="Kauê Franco Rocha github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Franco&layout=compact&hide_border=true&title_color=365278&text_color=ff91a4&bg_color=0d1117" />
-</div>
 
+<div align="center">
+  <br>
+  Currently studying REACT
+ </div>
+ <br>
+ <br>
+<div align="center">
+  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kaue-Franco&bg_color=0d1117&color=365278&line=365278&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
