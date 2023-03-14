@@ -4,7 +4,6 @@
 
 <div align="center">
   <br>
-  Currently studying REACT
  </div>
  <br>
  <br>
